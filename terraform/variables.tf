@@ -10,6 +10,6 @@ variable "region" {
   default = "eu-west-2"
 }
 
-variable "bird" {
-  default = "changeme"
+variable "UNIQUE_ANIMAL_IDENTIFIER" {
+  default = "bird"
 }
